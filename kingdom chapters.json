@@ -4,5 +4,14 @@
   "artist": "Yasuhisa Hara",
   "author": "Yasuhisa Hara",
   "cover": "https://www.nautiljon.com/images/manga/00/11/kingdom_3811.webp",
-  "chapters": {}
+  "chapters": {
+    "01": {
+      "title": "01",
+      "volume": "01",
+      "last_updated": "1751133424",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/na7kvkmwb48"
+      }
+    }
+  }
 }
